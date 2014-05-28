@@ -1,0 +1,10 @@
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Models\bin\Debug\Bookings.Models.dll
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Models\bin\Debug\Bookings.Models.pdb
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Models\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Models\obj\Debug\Bookings.Models.dll
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Models\obj\Debug\Bookings.Models.pdb
+C:\Users\debellos\Desktop\TestToSend\Bookings.Models\bin\Debug\Bookings.Models.dll
+C:\Users\debellos\Desktop\TestToSend\Bookings.Models\bin\Debug\Bookings.Models.pdb
+C:\Users\debellos\Desktop\TestToSend\Bookings.Models\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\debellos\Desktop\TestToSend\Bookings.Models\obj\Debug\Bookings.Models.dll
+C:\Users\debellos\Desktop\TestToSend\Bookings.Models\obj\Debug\Bookings.Models.pdb

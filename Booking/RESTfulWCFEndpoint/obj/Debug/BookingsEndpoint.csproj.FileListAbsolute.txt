@@ -1,0 +1,9 @@
+C:\Users\debellos\Desktop\skypeTest\C#\RESTfulWCFEndpoint\bin\RESTfulWCFEndpoint.dll
+C:\Users\debellos\Desktop\skypeTest\C#\RESTfulWCFEndpoint\bin\RESTfulWCFEndpoint.pdb
+C:\Users\debellos\Desktop\skypeTest\C#\RESTfulWCFEndpoint\bin\Core.dll
+C:\Users\debellos\Desktop\skypeTest\C#\RESTfulWCFEndpoint\bin\EntityFramework.dll
+C:\Users\debellos\Desktop\skypeTest\C#\RESTfulWCFEndpoint\bin\Core.pdb
+C:\Users\debellos\Desktop\skypeTest\C#\RESTfulWCFEndpoint\bin\EntityFramework.xml
+C:\Users\debellos\Desktop\skypeTest\C#\RESTfulWCFEndpoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\debellos\Desktop\skypeTest\C#\RESTfulWCFEndpoint\obj\Debug\RESTfulWCFEndpoint.dll
+C:\Users\debellos\Desktop\skypeTest\C#\RESTfulWCFEndpoint\obj\Debug\RESTfulWCFEndpoint.pdb

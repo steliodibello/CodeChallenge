@@ -1,0 +1,5 @@
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Models\bin\Release\Bookings.Models.dll
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Models\bin\Release\Bookings.Models.pdb
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Models\obj\Release\ResolveAssemblyReference.cache
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Models\obj\Release\Bookings.Models.dll
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Models\obj\Release\Bookings.Models.pdb

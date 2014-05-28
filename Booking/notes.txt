@@ -1,0 +1,46 @@
+Architectural Design
+- Azure WebRole
+WCF Restful Service
+HttpModule to validate ACS Tokens and get user Claims
+
+-SQL Azure
+Simple Booking Database created with codefirst and EF 4.31
+
+-ACS with custom Service Identities and SWT tokens
+to perform user authentication
+
+-Console application to invoke the service
+code is quite ugly, but it is just a demo how to consume the service...
+
+-Entity Framework 
+ConcurrencyCheck data annotation for avoididng collision if 2 users request seats at the same time...
+
+Business Requirements
+-PreBooking concept
+To provide a better user experience for the customers & operators I have implemented a "PreBooking" status so that a client can complete
+the booking without risking that somebody else take his tickets...
+There is missing a component to cleanUp the reservations in standby after X minutes and keeping an history of the "lost elapsed preBook".
+
+
+Security Considertations
+
+Solution Design
+
+Architectural Improvements
+-deployment of the service over ssl
+-asyncronus infrastructure for the Confirmation Booking Request to improve reliability under high load...
+-Enabling Logging & Performance counters
+-Enabling Azure autoscaling 
+-Unit Test
+-Integration test
+-Comments and documentation
+
+Interesting points
+-ACS security model 
+Soap listener / httpmodule / certificates
+-Pessimistic lock on the dataEntities
+
+References
+http://code.msdn.microsoft.com/windowsazure/REST-WCF-With-SWT-Token-123d93c0
+
+

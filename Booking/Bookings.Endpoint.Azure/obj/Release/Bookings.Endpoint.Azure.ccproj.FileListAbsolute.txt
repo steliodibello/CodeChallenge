@@ -1,0 +1,13 @@
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Endpoint.Azure\bin\Release\ServiceConfiguration.cscfg
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Endpoint.Azure\obj\Release\Bookings.Endpoint\bin\Bookings.DAL.dll
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Endpoint.Azure\obj\Release\Bookings.Endpoint\bin\Bookings.DAL.pdb
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Endpoint.Azure\obj\Release\Bookings.Endpoint\bin\Bookings.Models.dll
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Endpoint.Azure\obj\Release\Bookings.Endpoint\bin\Bookings.Models.pdb
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Endpoint.Azure\obj\Release\Bookings.Endpoint\bin\Bookings.Service.dll
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Endpoint.Azure\obj\Release\Bookings.Endpoint\bin\Bookings.Service.pdb
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Endpoint.Azure\obj\Release\Bookings.Endpoint\bin\EntityFramework.dll
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Endpoint.Azure\obj\Release\Bookings.Endpoint\bin\EntityFramework.xml
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Endpoint.Azure\obj\Release\Bookings.Endpoint\bin\RESTfulWCFEndpoint.dll
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Endpoint.Azure\obj\Release\Bookings.Endpoint\bin\RESTfulWCFEndpoint.pdb
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Endpoint.Azure\obj\Release\Bookings.Endpoint\Booking.svc
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Endpoint.Azure\obj\Release\Bookings.Endpoint\Web.config

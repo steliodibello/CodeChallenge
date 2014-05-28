@@ -1,0 +1,13 @@
+C:\Users\debellos\Desktop\skypeTest\C#\RESTfulWCFEndpoint\bin\RESTfulWCFEndpoint.dll
+C:\Users\debellos\Desktop\skypeTest\C#\RESTfulWCFEndpoint\bin\RESTfulWCFEndpoint.pdb
+C:\Users\debellos\Desktop\skypeTest\C#\RESTfulWCFEndpoint\bin\Bookings.Service.dll
+C:\Users\debellos\Desktop\skypeTest\C#\RESTfulWCFEndpoint\bin\Bookings.Models.dll
+C:\Users\debellos\Desktop\skypeTest\C#\RESTfulWCFEndpoint\bin\Bookings.DAL.dll
+C:\Users\debellos\Desktop\skypeTest\C#\RESTfulWCFEndpoint\bin\EntityFramework.dll
+C:\Users\debellos\Desktop\skypeTest\C#\RESTfulWCFEndpoint\bin\Bookings.Service.pdb
+C:\Users\debellos\Desktop\skypeTest\C#\RESTfulWCFEndpoint\bin\Bookings.Models.pdb
+C:\Users\debellos\Desktop\skypeTest\C#\RESTfulWCFEndpoint\bin\Bookings.DAL.pdb
+C:\Users\debellos\Desktop\skypeTest\C#\RESTfulWCFEndpoint\bin\EntityFramework.xml
+C:\Users\debellos\Desktop\skypeTest\C#\RESTfulWCFEndpoint\obj\Release\ResolveAssemblyReference.cache
+C:\Users\debellos\Desktop\skypeTest\C#\RESTfulWCFEndpoint\obj\Release\RESTfulWCFEndpoint.dll
+C:\Users\debellos\Desktop\skypeTest\C#\RESTfulWCFEndpoint\obj\Release\RESTfulWCFEndpoint.pdb

@@ -1,0 +1,32 @@
+C:\Users\alikl\Documents\Visual Studio 2010\Projects\SharedSwtToken\SecurityModule\bin\Debug\SecurityModule.dll
+C:\Users\alikl\Documents\Visual Studio 2010\Projects\SharedSwtToken\SecurityModule\bin\Debug\SecurityModule.pdb
+C:\Users\alikl\Documents\Visual Studio 2010\Projects\SharedSwtToken\SecurityModule\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alikl\Documents\Visual Studio 2010\Projects\SharedSwtToken\SecurityModule\obj\Debug\SecurityModule.dll
+C:\Users\alikl\Documents\Visual Studio 2010\Projects\SharedSwtToken\SecurityModule\obj\Debug\SecurityModule.pdb
+C:\Users\alikl\Documents\Visual Studio 2010\Projects\SharedSwtToken\RESTfulWCFEndpoint\bin\SecurityModule.dll
+C:\Users\alikl\Documents\Visual Studio 2010\Projects\SharedSwtToken\RESTfulWCFEndpoint\bin\SecurityModule.pdb
+C:\Users\alikl\Documents\Visual Studio 2010\Projects\RestWcfAcsSwt\RESTfulWCFEndpoint\bin\SecurityModule.dll
+C:\Users\alikl\Documents\Visual Studio 2010\Projects\RestWcfAcsSwt\RESTfulWCFEndpoint\bin\SecurityModule.pdb
+C:\Users\alikl\Documents\Visual Studio 2010\Projects\RestWcfAcsSwt\SecurityModule\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alikl\Documents\Visual Studio 2010\Projects\RestWcfAcsSwt\SecurityModule\obj\Debug\SecurityModule.dll
+C:\Users\alikl\Documents\Visual Studio 2010\Projects\RestWcfAcsSwt\SecurityModule\obj\Debug\SecurityModule.pdb
+C:\Users\debellos\Downloads\REST WCF With SWT Token Issued By Windows Azure Access Control Service (ACS)\C#\RESTfulWCFEndpoint\bin\SecurityModule.dll
+C:\Users\debellos\Downloads\REST WCF With SWT Token Issued By Windows Azure Access Control Service (ACS)\C#\RESTfulWCFEndpoint\bin\SecurityModule.pdb
+C:\Users\debellos\Downloads\REST WCF With SWT Token Issued By Windows Azure Access Control Service (ACS)\C#\SecurityModule\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\debellos\Downloads\REST WCF With SWT Token Issued By Windows Azure Access Control Service (ACS)\C#\SecurityModule\obj\Debug\SecurityModule.dll
+C:\Users\debellos\Downloads\REST WCF With SWT Token Issued By Windows Azure Access Control Service (ACS)\C#\SecurityModule\obj\Debug\SecurityModule.pdb
+C:\Users\Giorgio\Documents\Visual Studio 2010\Projects\skypeTest\C#\RESTfulWCFEndpoint\bin\SecurityModule.dll
+C:\Users\Giorgio\Documents\Visual Studio 2010\Projects\skypeTest\C#\RESTfulWCFEndpoint\bin\SecurityModule.pdb
+C:\Users\Giorgio\Documents\Visual Studio 2010\Projects\skypeTest\C#\SecurityModule\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Giorgio\Documents\Visual Studio 2010\Projects\skypeTest\C#\SecurityModule\obj\Debug\SecurityModule.dll
+C:\Users\Giorgio\Documents\Visual Studio 2010\Projects\skypeTest\C#\SecurityModule\obj\Debug\SecurityModule.pdb
+C:\Users\debellos\Desktop\skypeTest\C#\RESTfulWCFEndpoint\bin\SecurityModule.dll
+C:\Users\debellos\Desktop\skypeTest\C#\RESTfulWCFEndpoint\bin\SecurityModule.pdb
+C:\Users\debellos\Desktop\skypeTest\C#\SecurityModule\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\debellos\Desktop\skypeTest\C#\SecurityModule\obj\Debug\SecurityModule.dll
+C:\Users\debellos\Desktop\skypeTest\C#\SecurityModule\obj\Debug\SecurityModule.pdb
+C:\Users\debellos\Desktop\TestToSend\RESTfulWCFEndpoint\bin\SecurityModule.dll
+C:\Users\debellos\Desktop\TestToSend\RESTfulWCFEndpoint\bin\SecurityModule.pdb
+C:\Users\debellos\Desktop\TestToSend\SecurityModule\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\debellos\Desktop\TestToSend\SecurityModule\obj\Debug\SecurityModule.dll
+C:\Users\debellos\Desktop\TestToSend\SecurityModule\obj\Debug\SecurityModule.pdb

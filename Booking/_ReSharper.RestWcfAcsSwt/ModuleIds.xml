@@ -1,0 +1,11 @@
+<Modules>
+  <Module PersistentId="52808FF8-A04C-4FDD-A7B2-6D99A0917571" ModuleId="RESTfulWCFLibrary" />
+  <Module PersistentId="E9D67E7C-84EE-4B17-B651-FDC4EFA609CE" ModuleId="RestWcfTestClientConsole" />
+  <Module PersistentId="94180AA8-8F0E-42C1-8A24-DA24EAD8E70C" ModuleId="SecurityModule" />
+  <Module PersistentId="57B01EE7-63F5-464D-AFE8-37BF2DB68A30" ModuleId="Core" />
+  <Module PersistentId="87D14834-66C3-4F0A-9BAC-FD80EEAA1D72" ModuleId="BookingConsoleApp" />
+  <Module PersistentId="03F9138E-D41B-4D25-A869-AB0DCB71C07E" ModuleId="Bookings.DAL" />
+  <Module PersistentId="A205DA53-5A27-4803-AEC8-CCFA366567D7" ModuleId="Bookings.Models" />
+  <Module PersistentId="DC59E6E5-8AB8-4422-A996-DAB8BAE8B0EF" ModuleId="Bookings.Service" />
+  <Module PersistentId="RESTfulWCFLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" ModuleId="RESTfulWCFLibrary_1" />
+</Modules>

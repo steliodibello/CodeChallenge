@@ -1,0 +1,11 @@
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Service\bin\Release\Bookings.Service.dll
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Service\bin\Release\Bookings.Service.pdb
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Service\bin\Release\Bookings.DAL.dll
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Service\bin\Release\Bookings.Models.dll
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Service\bin\Release\EntityFramework.dll
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Service\bin\Release\Bookings.DAL.pdb
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Service\bin\Release\Bookings.Models.pdb
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Service\bin\Release\EntityFramework.xml
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Service\obj\Release\ResolveAssemblyReference.cache
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Service\obj\Release\Bookings.Service.dll
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.Service\obj\Release\Bookings.Service.pdb

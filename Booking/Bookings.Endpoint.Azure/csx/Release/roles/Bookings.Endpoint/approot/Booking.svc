@@ -1,0 +1,2 @@
+﻿<%@ ServiceHost Service="Bookings.Service.BookingService"  
+              Factory="System.ServiceModel.Activation.WebServiceHostFactory"    %>

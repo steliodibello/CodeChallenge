@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceConfiguration serviceName="Bookings.Endpoint.Azure" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="1" osVersion="*">
+  <Role name="Bookings.Endpoint">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.Enabled" value="true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountUsername" value="stelio" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountEncryptedPassword" value="MIIBlQYJKoZIhvcNAQcDoIIBhjCCAYICAQAxggFOMIIBSgIBADAyMB4xHDAaBgNVBAMME1dpbmRvd3MgQXp1cmUgVG9vbHMCEH70MpblA7OKQcR6ps8BXu0wDQYJKoZIhvcNAQEBBQAEggEATIORbnudRzwUWX00vmhkPpwDhrtlbBEkyTVs0oC2CgIPJbsUOitMiJPK5x6LqYUMjfhPIcTEWQke2grpK/pzfHdhDsaeqcqLR8cZ0OzSiyBui4Zs0+VsXoCpjT7nwh/fpikWKPK0WWJnZ2kJhjQrF0lOsB+NEoKpGgIO0XxXgYZ+X9SImBrErdg+yH8raqfaYdZD2v++ybKi+KAfp9MYo4ZI5wfl4LOeVyx0uCLAntRx8gHXnemA8+MlizSw5MXeR42ldsqB8ufjDvP6jK/7S/uOB6/7QTUyZLjxmo+fgqfS0NQz2ahpNukPl8qotJUF5KKrR/aNEu9O6l9sol+N9TArBgkqhkiG9w0BBwEwFAYIKoZIhvcNAwcECLu6tTBqpmPcgAjyAz7T7s0jSA==" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountExpiration" value="2013-05-28T23:59:59.0000000-07:00" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteForwarder.Enabled" value="true" />
+    </ConfigurationSettings>
+    <Certificates>
+      <Certificate name="Microsoft.WindowsAzure.Plugins.RemoteAccess.PasswordEncryption" thumbprint="64503562FDC33309CDD4B94740DDC9B425F5246A" thumbprintAlgorithm="sha1" />
+    </Certificates>
+  </Role>
+</ServiceConfiguration>

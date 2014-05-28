@@ -1,0 +1,15 @@
+C:\Users\debellos\Downloads\REST WCF With SWT Token Issued By Windows Azure Access Control Service (ACS)\C#\BookingConsoleApp\bin\Debug\BookingConsoleApp.exe.config
+C:\Users\debellos\Downloads\REST WCF With SWT Token Issued By Windows Azure Access Control Service (ACS)\C#\BookingConsoleApp\bin\Debug\BookingConsoleApp.exe
+C:\Users\debellos\Downloads\REST WCF With SWT Token Issued By Windows Azure Access Control Service (ACS)\C#\BookingConsoleApp\bin\Debug\BookingConsoleApp.pdb
+C:\Users\debellos\Downloads\REST WCF With SWT Token Issued By Windows Azure Access Control Service (ACS)\C#\BookingConsoleApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\debellos\Downloads\REST WCF With SWT Token Issued By Windows Azure Access Control Service (ACS)\C#\BookingConsoleApp\obj\x86\Debug\BookingConsoleApp.exe
+C:\Users\debellos\Downloads\REST WCF With SWT Token Issued By Windows Azure Access Control Service (ACS)\C#\BookingConsoleApp\obj\x86\Debug\BookingConsoleApp.pdb
+C:\Users\Giorgio\Documents\Visual Studio 2010\Projects\skypeTest\C#\BookingConsoleApp\bin\Debug\BookingConsoleApp.exe.config
+C:\Users\Giorgio\Documents\Visual Studio 2010\Projects\skypeTest\C#\BookingConsoleApp\obj\x86\Debug\BookingConsoleApp.exe
+C:\Users\Giorgio\Documents\Visual Studio 2010\Projects\skypeTest\C#\BookingConsoleApp\obj\x86\Debug\BookingConsoleApp.pdb
+C:\Users\Giorgio\Documents\Visual Studio 2010\Projects\skypeTest\C#\BookingConsoleApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Giorgio\Documents\Visual Studio 2010\Projects\skypeTest\C#\BookingConsoleApp\bin\Debug\BookingConsoleApp.exe
+C:\Users\Giorgio\Documents\Visual Studio 2010\Projects\skypeTest\C#\BookingConsoleApp\bin\Debug\BookingConsoleApp.pdb
+C:\Users\debellos\Desktop\skypeTest\C#\BookingConsoleApp\bin\Debug\BookingConsoleApp.exe.config
+C:\Users\debellos\Desktop\skypeTest\C#\BookingConsoleApp\obj\x86\Debug\BookingConsoleApp.exe
+C:\Users\debellos\Desktop\skypeTest\C#\BookingConsoleApp\obj\x86\Debug\BookingConsoleApp.pdb

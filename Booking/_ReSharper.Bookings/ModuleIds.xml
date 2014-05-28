@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="A205DA53-5A27-4803-AEC8-CCFA366567D7" ModuleId="Bookings.Models" />
+  <Module PersistentId="03F9138E-D41B-4D25-A869-AB0DCB71C07E" ModuleId="Bookings.DAL" />
+  <Module PersistentId="DC59E6E5-8AB8-4422-A996-DAB8BAE8B0EF" ModuleId="Bookings.Service" />
+</Modules>

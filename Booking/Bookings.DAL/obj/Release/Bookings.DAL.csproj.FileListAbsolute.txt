@@ -1,0 +1,10 @@
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.DAL\bin\Release\Bookings.DAL.dll.config
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.DAL\bin\Release\Bookings.DAL.dll
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.DAL\bin\Release\Bookings.DAL.pdb
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.DAL\bin\Release\Bookings.Models.dll
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.DAL\bin\Release\EntityFramework.dll
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.DAL\bin\Release\Bookings.Models.pdb
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.DAL\bin\Release\EntityFramework.xml
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.DAL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.DAL\obj\Release\Bookings.DAL.dll
+C:\Users\debellos\Desktop\skypeTest\C#\Bookings.DAL\obj\Release\Bookings.DAL.pdb

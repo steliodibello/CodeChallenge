@@ -1,0 +1,24 @@
+c:\users\alikl\documents\visual studio 2010\Projects\SharedSwtToken\RESTfulWCFEndpoint\bin\RESTfulWCFEndpoint.dll
+c:\users\alikl\documents\visual studio 2010\Projects\SharedSwtToken\RESTfulWCFEndpoint\bin\RESTfulWCFEndpoint.pdb
+c:\users\alikl\documents\visual studio 2010\Projects\SharedSwtToken\RESTfulWCFEndpoint\obj\Debug\ResolveAssemblyReference.cache
+c:\users\alikl\documents\visual studio 2010\Projects\SharedSwtToken\RESTfulWCFEndpoint\obj\Debug\RESTfulWCFEndpoint.dll
+c:\users\alikl\documents\visual studio 2010\Projects\SharedSwtToken\RESTfulWCFEndpoint\obj\Debug\RESTfulWCFEndpoint.pdb
+C:\Users\alikl\Documents\Visual Studio 2010\Projects\RestWcfAcsSwt\RESTfulWCFEndpoint\bin\RESTfulWCFEndpoint.dll
+C:\Users\alikl\Documents\Visual Studio 2010\Projects\RestWcfAcsSwt\RESTfulWCFEndpoint\bin\RESTfulWCFEndpoint.pdb
+C:\Users\alikl\Documents\Visual Studio 2010\Projects\RestWcfAcsSwt\RESTfulWCFEndpoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alikl\Documents\Visual Studio 2010\Projects\RestWcfAcsSwt\RESTfulWCFEndpoint\obj\Debug\RESTfulWCFEndpoint.dll
+C:\Users\alikl\Documents\Visual Studio 2010\Projects\RestWcfAcsSwt\RESTfulWCFEndpoint\obj\Debug\RESTfulWCFEndpoint.pdb
+C:\Users\debellos\Downloads\REST WCF With SWT Token Issued By Windows Azure Access Control Service (ACS)\C#\RESTfulWCFEndpoint\bin\RESTfulWCFEndpoint.dll
+C:\Users\debellos\Downloads\REST WCF With SWT Token Issued By Windows Azure Access Control Service (ACS)\C#\RESTfulWCFEndpoint\bin\RESTfulWCFEndpoint.pdb
+C:\Users\debellos\Downloads\REST WCF With SWT Token Issued By Windows Azure Access Control Service (ACS)\C#\RESTfulWCFEndpoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\debellos\Downloads\REST WCF With SWT Token Issued By Windows Azure Access Control Service (ACS)\C#\RESTfulWCFEndpoint\obj\Debug\RESTfulWCFEndpoint.dll
+C:\Users\debellos\Downloads\REST WCF With SWT Token Issued By Windows Azure Access Control Service (ACS)\C#\RESTfulWCFEndpoint\obj\Debug\RESTfulWCFEndpoint.pdb
+C:\Users\debellos\Downloads\REST WCF With SWT Token Issued By Windows Azure Access Control Service (ACS)\C#\RESTfulWCFEndpoint\bin\Core.dll
+C:\Users\debellos\Downloads\REST WCF With SWT Token Issued By Windows Azure Access Control Service (ACS)\C#\RESTfulWCFEndpoint\bin\EntityFramework.dll
+C:\Users\debellos\Downloads\REST WCF With SWT Token Issued By Windows Azure Access Control Service (ACS)\C#\RESTfulWCFEndpoint\bin\Core.pdb
+C:\Users\debellos\Downloads\REST WCF With SWT Token Issued By Windows Azure Access Control Service (ACS)\C#\RESTfulWCFEndpoint\bin\EntityFramework.xml
+C:\Users\Giorgio\Documents\Visual Studio 2010\Projects\skypeTest\C#\RESTfulWCFEndpoint\bin\RESTfulWCFEndpoint.dll
+C:\Users\Giorgio\Documents\Visual Studio 2010\Projects\skypeTest\C#\RESTfulWCFEndpoint\bin\RESTfulWCFEndpoint.pdb
+C:\Users\Giorgio\Documents\Visual Studio 2010\Projects\skypeTest\C#\RESTfulWCFEndpoint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Giorgio\Documents\Visual Studio 2010\Projects\skypeTest\C#\RESTfulWCFEndpoint\obj\Debug\RESTfulWCFEndpoint.dll
+C:\Users\Giorgio\Documents\Visual Studio 2010\Projects\skypeTest\C#\RESTfulWCFEndpoint\obj\Debug\RESTfulWCFEndpoint.pdb
