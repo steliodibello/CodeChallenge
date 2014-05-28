@@ -1,0 +1,16 @@
+c:\users\steliod\documents\visual studio 2012\Projects\FizzBuzzTest\FizzBuzzTest\bin\Debug\EqualExpertsConsole.exe.config
+c:\users\steliod\documents\visual studio 2012\Projects\FizzBuzzTest\FizzBuzzTest\bin\Debug\EqualExpertsConsole.exe
+c:\users\steliod\documents\visual studio 2012\Projects\FizzBuzzTest\FizzBuzzTest\bin\Debug\EqualExpertsConsole.pdb
+c:\users\steliod\documents\visual studio 2012\Projects\FizzBuzzTest\FizzBuzzTest\bin\Debug\EqualExperts.Core.dll
+c:\users\steliod\documents\visual studio 2012\Projects\FizzBuzzTest\FizzBuzzTest\bin\Debug\EqualExperts.Core.pdb
+c:\users\steliod\documents\visual studio 2012\Projects\FizzBuzzTest\FizzBuzzTest\obj\Debug\EqualExpertsConsole.csprojResolveAssemblyReference.cache
+c:\users\steliod\documents\visual studio 2012\Projects\FizzBuzzTest\FizzBuzzTest\obj\Debug\EqualExpertsConsole.exe
+c:\users\steliod\documents\visual studio 2012\Projects\FizzBuzzTest\FizzBuzzTest\obj\Debug\EqualExpertsConsole.pdb
+C:\Users\steliod\Documents\visual studio 2012\Projects\FizzBuzzTest\EqualExpertsConsole\bin\Debug\EqualExpertsConsole.exe.config
+C:\Users\steliod\Documents\visual studio 2012\Projects\FizzBuzzTest\EqualExpertsConsole\obj\Debug\EqualExpertsConsole.exe
+C:\Users\steliod\Documents\visual studio 2012\Projects\FizzBuzzTest\EqualExpertsConsole\obj\Debug\EqualExpertsConsole.pdb
+C:\Users\steliod\Documents\visual studio 2012\Projects\FizzBuzzTest\EqualExpertsConsole\bin\Debug\EqualExpertsConsole.exe
+C:\Users\steliod\Documents\visual studio 2012\Projects\FizzBuzzTest\EqualExpertsConsole\bin\Debug\EqualExpertsConsole.pdb
+C:\Users\steliod\Documents\visual studio 2012\Projects\FizzBuzzTest\EqualExpertsConsole\bin\Debug\EqualExperts.Core.dll
+C:\Users\steliod\Documents\visual studio 2012\Projects\FizzBuzzTest\EqualExpertsConsole\bin\Debug\EqualExperts.Core.pdb
+C:\Users\steliod\Documents\visual studio 2012\Projects\FizzBuzzTest\EqualExpertsConsole\obj\Debug\EqualExpertsConsole.csprojResolveAssemblyReference.cache

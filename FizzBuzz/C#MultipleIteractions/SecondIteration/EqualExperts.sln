@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualExpertsConsole", "EqualExpertsConsole\EqualExpertsConsole.csproj", "{CFBC3600-6A5C-4BFF-BE6A-71719A1587AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualExperts.Core", "EqualExperts.Core\EqualExperts.Core.csproj", "{09B60A67-78A8-42E2-8407-4F3CCF8697BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualExperts.Core.Test", "EqualExperts.Core.Test\EqualExperts.Core.Test.csproj", "{334038AC-AAA9-4576-99FD-98185BBAE7B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFBC3600-6A5C-4BFF-BE6A-71719A1587AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBC3600-6A5C-4BFF-BE6A-71719A1587AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBC3600-6A5C-4BFF-BE6A-71719A1587AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBC3600-6A5C-4BFF-BE6A-71719A1587AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09B60A67-78A8-42E2-8407-4F3CCF8697BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B60A67-78A8-42E2-8407-4F3CCF8697BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B60A67-78A8-42E2-8407-4F3CCF8697BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B60A67-78A8-42E2-8407-4F3CCF8697BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{334038AC-AAA9-4576-99FD-98185BBAE7B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334038AC-AAA9-4576-99FD-98185BBAE7B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334038AC-AAA9-4576-99FD-98185BBAE7B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334038AC-AAA9-4576-99FD-98185BBAE7B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

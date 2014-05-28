@@ -1,0 +1,11 @@
+c:\users\steliod\documents\visual studio 2012\Projects\FizzBuzzTest\EqualExperts.Core.Test\bin\Debug\EqualExperts.Core.Test.dll
+c:\users\steliod\documents\visual studio 2012\Projects\FizzBuzzTest\EqualExperts.Core.Test\bin\Debug\EqualExperts.Core.Test.pdb
+c:\users\steliod\documents\visual studio 2012\Projects\FizzBuzzTest\EqualExperts.Core.Test\bin\Debug\EqualExperts.Core.dll
+c:\users\steliod\documents\visual studio 2012\Projects\FizzBuzzTest\EqualExperts.Core.Test\bin\Debug\nunit.framework.dll
+c:\users\steliod\documents\visual studio 2012\Projects\FizzBuzzTest\EqualExperts.Core.Test\bin\Debug\EqualExperts.Core.pdb
+c:\users\steliod\documents\visual studio 2012\Projects\FizzBuzzTest\EqualExperts.Core.Test\bin\Debug\nunit.framework.xml
+c:\users\steliod\documents\visual studio 2012\Projects\FizzBuzzTest\EqualExperts.Core.Test\obj\Debug\EqualExperts.Core.Test.csprojResolveAssemblyReference.cache
+c:\users\steliod\documents\visual studio 2012\Projects\FizzBuzzTest\EqualExperts.Core.Test\obj\Debug\EqualExperts.Core.Test.dll
+c:\users\steliod\documents\visual studio 2012\Projects\FizzBuzzTest\EqualExperts.Core.Test\obj\Debug\EqualExperts.Core.Test.pdb
+c:\users\steliod\documents\visual studio 2012\Projects\FizzBuzzTest\EqualExperts.Core.Test\bin\Debug\Moq.dll
+c:\users\steliod\documents\visual studio 2012\Projects\FizzBuzzTest\EqualExperts.Core.Test\bin\Debug\Moq.xml

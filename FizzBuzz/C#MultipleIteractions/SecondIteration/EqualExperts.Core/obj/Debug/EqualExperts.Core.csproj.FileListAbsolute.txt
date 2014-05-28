@@ -1,0 +1,5 @@
+c:\users\steliod\documents\visual studio 2012\Projects\FizzBuzzTest\EqualExperts.Core\bin\Debug\EqualExperts.Core.dll
+c:\users\steliod\documents\visual studio 2012\Projects\FizzBuzzTest\EqualExperts.Core\bin\Debug\EqualExperts.Core.pdb
+c:\users\steliod\documents\visual studio 2012\Projects\FizzBuzzTest\EqualExperts.Core\obj\Debug\EqualExperts.Core.csprojResolveAssemblyReference.cache
+c:\users\steliod\documents\visual studio 2012\Projects\FizzBuzzTest\EqualExperts.Core\obj\Debug\EqualExperts.Core.dll
+c:\users\steliod\documents\visual studio 2012\Projects\FizzBuzzTest\EqualExperts.Core\obj\Debug\EqualExperts.Core.pdb
